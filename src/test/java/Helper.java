@@ -8,7 +8,8 @@ import javax.xml.parsers.ParserConfigurationException;
 import java.io.File;
 import java.io.IOException;
 
-import static com.sun.deploy.cache.Cache.copyFile;
+import static org.apache.commons.io.FileUtils.copyFile;
+
 
 public class Helper {
     public final String XMLPaTH = ".\\web.xml";
