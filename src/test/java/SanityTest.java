@@ -17,7 +17,7 @@ import java.sql.SQLException;
 import java.util.concurrent.TimeUnit;
 
 
-public class Sanity {
+public class SanityTest {
     public static WebDriver driver;
     public static WebDriverWait wait;
     private static Helper myHelper = new Helper();
