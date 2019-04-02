@@ -1,7 +1,7 @@
 import org.openqa.selenium.*;
 import org.w3c.dom.Document;
 
-import org.xml.sax.SAXException;
+import org.xml.sax.*;
 
 
 import javax.xml.parsers.DocumentBuilder;
